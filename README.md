@@ -1,3 +1,6 @@
+#Try App
+https://comps-pi.vercel.app
+
 # Comps
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.5.
